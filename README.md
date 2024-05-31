@@ -1,8 +1,14 @@
-# React + Vite
+# [SIC]
+Student Interest Collective 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+​​Student Investor Collective [SIC] is a student collective revolutionizing how we tackle student debt. By leveraging the power of Bitcoin and blockchain technology, we empower students to collaboratively pay off their loans faster and more efficiently. Join us to take control of your financial future, support fellow students, and harness the potential of cryptocurrency to achieve debt freedom. We can transform debt repayment into a collective, innovative, and financially savvy journey. 
 
-Currently, two official plugins are available:
+# Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+front-end react/vite
+backend-solidity
+api used - ThirdWeb 
+
+# Demo
+
+https://sic-rootstock-demo.netlify.app/
